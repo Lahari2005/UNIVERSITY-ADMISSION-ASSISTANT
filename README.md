@@ -109,9 +109,7 @@ UNIVERSITY-ADMISSION-ASSISTANT/
 
 Clone the repository:
 git clone https://github.com/Lahari2005/UNIVERSITY-ADMISSION-ASSISTANT.git
-GitHub - Lahari2005/UNIVERSITY-ADMISSION-ASSISTANT
-Contribute to Lahari2005/UNIVERSITY-ADMISSION-ASSISTANT development by creating an account on GitHub.
- 
+
 Navigate to the project:
 cd UNIVERSITY-ADMISSION-ASSISTANT
  
